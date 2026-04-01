@@ -1,1 +1,1 @@
-# STARS
+# Linguagem C
